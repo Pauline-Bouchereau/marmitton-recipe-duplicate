@@ -25,6 +25,18 @@ p {
   margin-bottom: 20px;
 }
 
+/* Lists */
+li {
+  color: #6c6c6c;
+  line-height: 22px;
+  list-style-type: disc;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+/* Titles*/
 h1 {
   font-size: 50px;
   font-weight: bold;
@@ -64,6 +76,17 @@ header img {
 /* SECTION */
 /* ---------------- */
 
+/* Baseline */
+.baseline {
+  text-align: center;
+  color: #6c6c6c;
+  font-size: 12px;
+  border-top: 8px;
+  line-height: 14px;
+  padding-top: 8px;
+}
+
+/* Cooking time */
 .timer {
   width: 400px;
   height: 45px;
@@ -72,21 +95,35 @@ header img {
   color: white;
   text-transform: uppercase;
   text-align: center;
+  font-weight: 700;
+  font-size: 22px;
   line-height: 45px;
   margin: 30px auto;
 }
 
+/* Images*/
 section img {
   width: 300px;
   height: 300px;
   object-fit: cover;
   border-radius: 10px;
-  margin-right: 32px;
+}
+.img-container {
+  width: 964px;
+  margin-top: 60px;
 }
 
-.baseline {
-  text-align: center;
+#middle-image {
+  margin: 0 32px;
+}
+
+/* ---------------- */
+/* FOOTER */
+/* ---------------- */
+footer p {
   color: #6c6c6c;
   font-size: 12px;
-  border-top: 8px;
+  line-height: 14px;
+  text-align: center;
+  margin: 60px auto;
 }
