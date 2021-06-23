@@ -4,8 +4,9 @@
 
 **Frontend project**
 
-👉 Netlify Link to see the live version [HERE](https://marmiton-pb.netlify.app/)  
+👉 Netlify Link to see the live version [HERE](https://marmiton-pb.netlify.app/)
 
+![Screenshot of the website](./assets/img/marmiton.png)
 
 _Made in 2021 @ Le Reacteur_
 
@@ -28,5 +29,5 @@ cd marmitton-recipe-duplicate
 ```
 
 #### To launch the project :
-If you use VS Code, you can use the Lice Server extension to see the project in the navigator.
 
+If you use VS Code, you can use the Lice Server extension to see the project in the navigator.
